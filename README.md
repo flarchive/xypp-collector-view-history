@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of xypp/collector-view-history.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/collector-view-history) or the [upstream repository](https://github.com/zxy19/collector-view-history).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xypp-collector-view-history/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xypp-collector-view-history/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-09-19 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-collector-view-history/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/xypp-collector-view-history.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-collector-view-history.json)
 
